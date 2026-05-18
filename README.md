@@ -6,7 +6,7 @@ Run as root for full coverage.
 ## Install
 **Arch Linux (AUR):**
 ```sh
-yay -S sec-audit
+yay -S sec-audit-git
 ```
 
 **Any Linux — pre-built binary:**
